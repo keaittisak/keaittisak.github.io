@@ -5,4 +5,4 @@ Certificate
 1. ITPE
 2. Security+
 
-<img src = "1.jpg">
+<img src = "1.JPG">
